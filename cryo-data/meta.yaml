@@ -1,0 +1,13 @@
+cryo_data_name: BedMachine_Greenland
+references:
+  data:
+    doi: 10.5067/VLJ5YXKCNGXO
+  science:
+    doi: 10.1002/2017gl074954
+
+aka:
+  author: morlighem_2017
+  data_provider: NSIDC/IDBMG4
+  organization: 
+  project: BedMachine_Greenland
+  other:
